@@ -1,0 +1,11 @@
+# {C comme Carte} - {Nb. de case en largeur} - {Nb. de case en hauteur}
+#C - 3 - 4
+# {M comme Montagne} - {Axe horizontal} - {Axe vertical}
+#M - 1 - 1
+#{T comme Trésor} - {Axe horizontal} - {Axe vertical} - {Nb. de trésors}
+#T - 0 - 3 - 2
+C - 3 - 4
+M - 1 - 1
+M - 2 - 2
+T - 0 - 3 - 2
+T - 1 - 3 - 1

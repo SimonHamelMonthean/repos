@@ -1,0 +1,16 @@
+C:\Users\simon\source\repos\CarteAuTresor\CarteAuTresor\bin\Debug\net6.0\CarteAuTresor.exe
+C:\Users\simon\source\repos\CarteAuTresor\CarteAuTresor\bin\Debug\net6.0\CarteAuTresor.deps.json
+C:\Users\simon\source\repos\CarteAuTresor\CarteAuTresor\bin\Debug\net6.0\CarteAuTresor.runtimeconfig.json
+C:\Users\simon\source\repos\CarteAuTresor\CarteAuTresor\bin\Debug\net6.0\CarteAuTresor.dll
+C:\Users\simon\source\repos\CarteAuTresor\CarteAuTresor\bin\Debug\net6.0\CarteAuTresor.pdb
+C:\Users\simon\source\repos\CarteAuTresor\CarteAuTresor\obj\Debug\net6.0\CarteAuTresor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\source\repos\CarteAuTresor\CarteAuTresor\obj\Debug\net6.0\CarteAuTresor.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\CarteAuTresor\CarteAuTresor\obj\Debug\net6.0\CarteAuTresor.AssemblyInfo.cs
+C:\Users\simon\source\repos\CarteAuTresor\CarteAuTresor\obj\Debug\net6.0\CarteAuTresor.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\CarteAuTresor\CarteAuTresor\obj\Debug\net6.0\CarteAuTresor.dll
+C:\Users\simon\source\repos\CarteAuTresor\CarteAuTresor\obj\Debug\net6.0\refint\CarteAuTresor.dll
+C:\Users\simon\source\repos\CarteAuTresor\CarteAuTresor\obj\Debug\net6.0\CarteAuTresor.pdb
+C:\Users\simon\source\repos\CarteAuTresor\CarteAuTresor\obj\Debug\net6.0\CarteAuTresor.genruntimeconfig.cache
+C:\Users\simon\source\repos\CarteAuTresor\CarteAuTresor\obj\Debug\net6.0\ref\CarteAuTresor.dll
+C:\Users\simon\source\repos\CarteAuTresor\CarteAuTresor\obj\Debug\net6.0\CarteAuTresor.Resource.resources
+C:\Users\simon\source\repos\CarteAuTresor\CarteAuTresor\obj\Debug\net6.0\CarteAuTresor.csproj.GenerateResource.cache
